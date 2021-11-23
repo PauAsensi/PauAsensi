@@ -1,0 +1,77 @@
+{
+	"viviendas": [{
+		"casas": [{
+				"direccion": "Ronda Oest Nº4",
+				"numero_refernecia": 1,
+				"precio": 45.000,
+				"metros": "500m2",
+				"imagen": "imgs/casa1_0.jpg",
+				"descripcion": "Casa perfecta para vivir"
+			},
+
+			{
+				"direccion": "Ronda Eest Nº56",
+				"numero_refernecia": 2,
+				"precio": 50.000,
+				"metros": "800m2",
+				"imagen": "imgs/casa2_0.jpg",
+				"descripcion": "Casa perfecta para vivir alejado del pueblo"
+			}
+		]
+	}, {
+
+		"pisos": [{
+				"direccion": "Avda.Cornelius Nº34 Puerta 5",
+				"numero_refernecia": 1,
+				"precio": 600,
+				"metros": "30m2",
+				"imagen": "imgs/piso1_0.jpg",
+				"descripcion": "Piso perfecto para vivir"
+			},
+			{
+				"direccion": "Calle Dolores Nº11 Puerta 2",
+				"numero_refernecia": 2,
+				"precio": 800,
+				"metros": "50m2",
+				"imagen": "imgs/piso2_0.jpg",
+				"descripcion": "Piso perfecto para vivir cerca del centro"
+			}
+		]
+	}, {
+		"locales": [{
+				"direccion": "Calle Mostoles Nº34",
+				"numero_refernecia": 1,
+				"precio": 8.500,
+				"metros": "100m2",
+				"imagen": "imgs/local1_0.jpg",
+				"descripcion": "Local perfecto para abrir tu negocio"
+			},
+			{
+				"direccion": "Calle Diputacio Nº50",
+				"numero_refernecia": 2,
+				"precio": 10.500,
+				"metros": "200m2",
+				"imagen": "imgs/local2_0.jpg",
+				"descripcion": "Local perfecto para abrir tu negocio en una zona agradable"
+			}
+		]
+	}, {
+		"garajes": [{
+				"direccion": "Avda. Emperador Romano  II Nº5",
+				"numero_refernecia": 1,
+				"precio": 5.000,
+				"metros": "75m2",
+				"imagen": "imgs/garaje1_0.jpg",
+				"descripcion": "Garaje perfecto para guardar tu vehiculo personal"
+			},
+			{
+				"direccion": "Ronda Honda Nº69",
+				"numero_refernecia": 2,
+				"precio": 7.500,
+				"metros": "90m2",
+				"imagen": "imgs/garaje2_0.jpg",
+				"descripcion": "Garaje perfecto para guardar tu vehiculo personal y otras muchas cosas"
+			}
+		]
+	}]
+}
