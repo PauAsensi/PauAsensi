@@ -3,7 +3,7 @@
 		"casas": [{
 				"direccion": "Ronda Oest Nº4",
 				"numero_referencia": 1,
-				"precio": 45.000,
+				"precio": 45000,
 				"metros": "500m2",
 				"imagen": "imgs/casa1_0.jpg",
 				"descripcion": "Casa perfecta para vivir"
@@ -12,7 +12,7 @@
 			{
 				"direccion": "Ronda Eest Nº56",
 				"numero_referencia": 2,
-				"precio": 50.000,
+				"precio": 50000,
 				"metros": "800m2",
 				"imagen": "imgs/casa2_0.jpg",
 				"descripcion": "Casa perfecta para vivir alejado del pueblo"
@@ -41,7 +41,7 @@
 		"locales": [{
 				"direccion": "Calle Mostoles Nº34",
 				"numero_referencia": 1,
-				"precio": 8.500,
+				"precio": 8500,
 				"metros": "100m2",
 				"imagen": "imgs/local1_0.jpg",
 				"descripcion": "Local perfecto para abrir tu negocio"
@@ -49,7 +49,7 @@
 			{
 				"direccion": "Calle Diputacio Nº50",
 				"numero_referencia": 2,
-				"precio": 10.500,
+				"precio": 10500,
 				"metros": "200m2",
 				"imagen": "imgs/local2_0.jpg",
 				"descripcion": "Local perfecto para abrir tu negocio en una zona agradable"
@@ -59,7 +59,7 @@
 		"garajes": [{
 				"direccion": "Avda. Emperador Romano  II Nº5",
 				"numero_referencia": 1,
-				"precio": 5.000,
+				"precio": 5000,
 				"metros": "75m2",
 				"imagen": "imgs/garaje1_0.jpg",
 				"descripcion": "Garaje perfecto para guardar tu vehiculo personal"
@@ -67,7 +67,7 @@
 			{
 				"direccion": "Ronda Honda Nº69",
 				"numero_referencia": 2,
-				"precio": 7.500,
+				"precio": 7500,
 				"metros": "90m2",
 				"imagen": "imgs/garaje2_0.jpg",
 				"descripcion": "Garaje perfecto para guardar tu vehiculo personal y otras muchas cosas"
