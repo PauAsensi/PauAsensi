@@ -23,7 +23,7 @@
 		"pisos": [{
 				"direccion": "Avda.Cornelius Nº34 Puerta 5",
 				"numero_referencia": 1,
-				"precio": 600,
+				"precio": 6000,
 				"metros": "30m2",
 				"imagen": "imgs/piso1_0.jpg",
 				"descripcion": "Piso perfecto para vivir"
@@ -31,7 +31,7 @@
 			{
 				"direccion": "Calle Dolores Nº11 Puerta 2",
 				"numero_referencia": 2,
-				"precio": 800,
+				"precio": 8000,
 				"metros": "50m2",
 				"imagen": "imgs/piso2_0.jpg",
 				"descripcion": "Piso perfecto para vivir cerca del centro"
