@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    position: fixed;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(37, 36, 36);
+    color: white;
+    z-index: 20;
+}
+
+#mostrartodo{
+    background-color: rgb(58, 57, 57);
+    color: white;
+    border-radius: 5px;
+}
+select{
+    background-color: rgb(58, 57, 57);
+    color: white;
+    border-radius: 5px;
+}
+
+#contingut{
+    position: relative;
+    top: 150px;
+    justify-content: center;
+    text-align: center;
+    width: 85%;
+    margin-left: 10%;
+    height: 900px;
+}
+
+.general{
+    display:inline-block;
+    justify-content: center;
+    padding: 20px;
+}
+
+#formulario{
+    position: absolute;
+    top:200px;
+    margin-left: 50%;
+    border: 1px solid rgb(51, 50, 50);
+    background-color: rgb(90, 89, 87);
+    padding: 20px;
+}
+#ficha{
+    position: relative;
+    margin-left: 25%;
+    top:90px;
+}
+
+#titulo{
+    background-color: rgb(90, 89, 87);
+    position: fixed;
+    z-index: 40;
+    width: 100%;
+    position: fixed;
+    top: 80px;
+    text-align: center;
+}
+body{
+    background-color: rgb(136, 134, 130);
+}
+
+.card{
+    background-color: rgb(37, 36, 36);
+    color: white;
+    border:1px solid black; 
+    border-radius: 20px;
+}
+.card > ul >li{
+    background-color: rgb(37, 36, 36);
+    color: white;
+    
+}
+.card > ul {
+    background-color: rgb(37, 36, 36);
+    color: white;
+    
+}
+.card-img-top{
+    padding: 15px;
+    border-radius: 20px;
+    border-bottom:1px solid black; 
+}
+.btn-primary{
+    background-color: white;
+    border-color: grey;
+    color: black;
+    border-radius: 5px;
+}
+.btn-primary:hover{
+    background-color: grey;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+}
