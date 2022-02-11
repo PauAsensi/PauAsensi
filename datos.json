@@ -1,77 +1,50 @@
 {
-	"viviendas": [{
-		"casas": [{
-				"direccion": "Ronda Oest Nº4",
-				"numero_referencia": 1,
-				"precio": 45000,
-				"metros": "500m2",
-				"imagen": "imgs/casa1_0.jpg",
-				"descripcion": "Casa perfecta para vivir"
-			},
-
-			{
-				"direccion": "Ronda Eest Nº56",
-				"numero_referencia": 2,
-				"precio": 50000,
-				"metros": "800m2",
-				"imagen": "imgs/casa2_0.jpg",
-				"descripcion": "Casa perfecta para vivir alejado del pueblo"
-			}
-		]
-	}, {
-
-		"pisos": [{
-				"direccion": "Avda.Cornelius Nº34 Puerta 5",
-				"numero_referencia": 1,
-				"precio": 6000,
-				"metros": "30m2",
-				"imagen": "imgs/piso1_0.jpg",
-				"descripcion": "Piso perfecto para vivir"
-			},
-			{
-				"direccion": "Calle Dolores Nº11 Puerta 2",
-				"numero_referencia": 2,
-				"precio": 8000,
-				"metros": "50m2",
-				"imagen": "imgs/piso2_0.jpg",
-				"descripcion": "Piso perfecto para vivir cerca del centro"
-			}
-		]
-	}, {
-		"locales": [{
-				"direccion": "Calle Mostoles Nº34",
-				"numero_referencia": 1,
-				"precio": 8500,
-				"metros": "100m2",
-				"imagen": "imgs/local1_0.jpg",
-				"descripcion": "Local perfecto para abrir tu negocio"
-			},
-			{
-				"direccion": "Calle Diputacio Nº50",
-				"numero_referencia": 2,
-				"precio": 10500,
-				"metros": "200m2",
-				"imagen": "imgs/local2_0.jpg",
-				"descripcion": "Local perfecto para abrir tu negocio en una zona agradable"
-			}
-		]
-	}, {
-		"garajes": [{
-				"direccion": "Avda. Emperador Romano  II Nº5",
-				"numero_referencia": 1,
-				"precio": 5000,
-				"metros": "75m2",
-				"imagen": "imgs/garaje1_0.jpg",
-				"descripcion": "Garaje perfecto para guardar tu vehiculo personal"
-			},
-			{
-				"direccion": "Ronda Honda Nº69",
-				"numero_referencia": 2,
-				"precio": 7500,
-				"metros": "90m2",
-				"imagen": "imgs/garaje2_0.jpg",
-				"descripcion": "Garaje perfecto para guardar tu vehiculo personal y otras muchas cosas"
-			}
-		]
-	}]
+    "pirineus":[
+        {
+            "id":1,
+            "zona":"Pirineus",
+            "imagen":"https://www.altimetrias.net/Francia/Pirineos/Tourmalet2.gif",
+            "nom":"Torumalet",
+            "altitud":2115,
+            "longitud":17,
+            "pendent":7.3,
+            "desnivell":1268,
+            "coeficient":"APM 315"
+        },
+        {
+            "id":2,
+            "zona":"Pirineus",
+            "imagen":"https://www.altimetrias.net/Mundo/Andorra/LaGallina.gif",
+            "nom":"La Gallina",
+            "altitud":1910,
+            "longitud":11.76,
+            "pendent":8.36,
+            "desnivell":982,
+            "coeficient":"APM 263"
+        }
+    ],
+    "europa":[
+        {
+            "id":1,
+            "zona":"Europa",
+            "imagen":"https://www.altimetrias.net/Asturias/Lagos.gif",
+            "nom":"Lagos de Covadonga",
+            "altitud":1124,
+            "longitud":13.9,
+            "pendent":6.92,
+            "desnivell":962,
+            "coeficient":"APM 268"
+        },
+        {
+            "id":2,
+            "zona":"Europa",
+            "imagen":"https://www.altimetrias.net/Asturias/Angliru1.gif",
+            "nom":"Angliru",
+            "altitud":1572,
+            "longitud":12.4,
+            "pendent":10.21,
+            "desnivell":1266,
+            "coeficient":"APM 514"
+        }
+    ]
 }
